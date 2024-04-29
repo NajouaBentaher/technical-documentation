@@ -1,5 +1,3 @@
-# technical-documentation
-
 # Technical Documentation
 This project provides technical documentation for a simple web-based application developed using HTML and JavaScript. It aims to facilitate understanding of the project's structure, functionality, and usage.
 
